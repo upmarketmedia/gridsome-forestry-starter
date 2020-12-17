@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: Hi
   label: SIDEBAR
-  create: documents
+  create: none
   match: "**/*"
   templates:
   - project
